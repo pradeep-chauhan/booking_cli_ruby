@@ -1,2 +1,1 @@
-# booking_cli_ruby
-Movie ticket booking ruby cli app
+# Ticket Booking CLI: Book movie ticket
